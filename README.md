@@ -5,6 +5,9 @@ Códigos del Magíster: Programación Avanzada
 ### Recursos Adicionales
 - [Página oficial del Magíster](http://ima.ucv.cl/programas/msc/)
 
+- ![Magíster en Simulación Computacional](https://www.postgradospucv.cl/wp-content/uploads/2023/10/Magister-en-Simulacion-Computacional.jpg)
+
+
 Este repositorio contiene los códigos, ejercicios y proyectos desarrollados durante el curso de Programación Avanzada. A continuación, se presenta un resumen de los contenidos abordados en cada unidad:
 
 ## Unidades Temáticas y Contenidos
