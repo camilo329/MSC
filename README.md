@@ -5,8 +5,7 @@ Códigos del Magíster: Programación Avanzada
 ### Recursos Adicionales
 - [Página oficial del Magíster](http://ima.ucv.cl/programas/msc/)
 
-![Descripción de la imagen](https://z-p3-scontent.fkna1-1.fna.fbcdn.net/v/t39.30808-6/320884041_3357798744432000_1728873969374046391_n.png?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGSTW75s4Mc3blXEtkw3OmvSulKVHkoEsdK6UpUeSgSx21bZYrH1CM8bAiL3tDwYJZFaKzb3KAaA36JohjDcOBA&_nc_ohc=Xb8xTGXqvwAQ7kNvgEwjH8k&_nc_zt=23&_nc_ht=z-p3-scontent.fkna1-1.fna&_nc_gid=A1bYNAFhcXxXQoHyV3sgrNG&oh=00_AYBq2vuBLp4foKL_j6b2AGvbguUVJEjV0QvhwiHsAxaavw&oe=675D5456)
-
+  ![Magíster en Simulación Computacional](images/magistersimulacionpucv.png)
 
 
 Este repositorio contiene los códigos, ejercicios y proyectos desarrollados durante el curso de Programación Avanzada. A continuación, se presenta un resumen de los contenidos abordados en cada unidad:
@@ -37,4 +36,5 @@ Este repositorio contiene los códigos, ejercicios y proyectos desarrollados dur
 ### Objetivo del Curso
 Desarrollar habilidades avanzadas de programación en Python con énfasis en el manejo y análisis de datos, optimización de operaciones con tensores, y control de versiones mediante Git. 
 
-Este repositorio se actualizará con ejemplos de código y ejercicios prácticos para cada unidad.
+![Magíster en Simulación](https://z-p3-scontent.fkna1-1.fna.fbcdn.net/v/t39.30808-6/320884041_3357798744432000_1728873969374046391_n.png?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGSTW75s4Mc3blXEtkw3OmvSulKVHkoEsdK6UpUeSgSx21bZYrH1CM8bAiL3tDwYJZFaKzb3KAaA36JohjDcOBA&_nc_ohc=Xb8xTGXqvwAQ7kNvgEwjH8k&_nc_zt=23&_nc_ht=z-p3-scontent.fkna1-1.fna&_nc_gid=A1bYNAFhcXxXQoHyV3sgrNG&oh=00_AYBq2vuBLp4foKL_j6b2AGvbguUVJEjV0QvhwiHsAxaavw&oe=675D5456)
+
