@@ -2,6 +2,9 @@
 
 Códigos del Magíster: Programación Avanzada
 
+### Recursos Adicionales
+- [Página oficial del Magíster](http://ima.ucv.cl/programas/msc/)
+
 Este repositorio contiene los códigos, ejercicios y proyectos desarrollados durante el curso de Programación Avanzada. A continuación, se presenta un resumen de los contenidos abordados en cada unidad:
 
 ## Unidades Temáticas y Contenidos
