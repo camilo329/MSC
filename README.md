@@ -1,6 +1,8 @@
-# MSC
+# MSC PUCV
 
-Códigos del Magíster: Programación Avanzada
+# Cambios en la nueva rama
+Aquí van los cambios realizados en esta rama!!!!
+
 
 ### Recursos Adicionales
 - [Página oficial del Magíster](http://ima.ucv.cl/programas/msc/)
